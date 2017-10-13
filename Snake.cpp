@@ -51,7 +51,7 @@ struct Food{
 int main()
 {
 	welcome();
-    CreatMap();
+        CreatMap();
 	InitSnake();
 	if(level==4) InitSnake2();
 	InitFood();
